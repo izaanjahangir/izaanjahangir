@@ -115,8 +115,9 @@
 
 <br/>  
 
+<!--
+## Github Stats
 
-## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=izaanjahangir&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izaanjahangir&hide_border=true&layout=compact" align="left" style="width: 100%" />  
@@ -133,6 +134,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=izaanjahangir&&style=flat-square" align="center" />
 </div>  
+-->
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
